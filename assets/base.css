@@ -2214,7 +2214,7 @@ input[type='checkbox'] {
 
 .header__heading-link .h2 {
   line-height: 1;
-  color: pink;
+  color: rgba(var(--color-foreground), 0.75);
 }
 
 .header__heading-logo {
