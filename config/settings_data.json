@@ -6,6 +6,7 @@
     "colors_accent_2": "#5433b4",
     "gradient_accent_2": "linear-gradient(180deg, rgba(196, 102, 238, 1), rgba(82, 218, 236, 1) 100%)",
     "type_header_font": "monotype_baskerville_n4",
+    "social_instagram_link": "https:\/\/www.instagram.com\/guarapocolors_\/",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
