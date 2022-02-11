@@ -7,6 +7,7 @@
     "gradient_accent_2": "linear-gradient(180deg, rgba(196, 102, 238, 1), rgba(82, 218, 236, 1) 100%)",
     "type_header_font": "monotype_baskerville_n4",
     "social_instagram_link": "https:\/\/www.instagram.com\/guarapocolors_\/",
+    "favicon": "shopify:\/\/shop_images\/logo-guarapocolors_bb517328-5074-4f23-94db-a62a9b3de567.png",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
