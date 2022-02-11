@@ -2,7 +2,10 @@
   "current": {
     "colors_solid_button_labels": "#FFFFFF",
     "colors_accent_1": "#ffbcd1",
-    "gradient_accent_1": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)",
+    "gradient_accent_1": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 46%, rgba(250, 220, 54, 1) 87%)",
+    "colors_accent_2": "#5433b4",
+    "gradient_accent_2": "linear-gradient(180deg, rgba(196, 102, 238, 1), rgba(82, 218, 236, 1) 100%)",
+    "type_header_font": "monotype_baskerville_n4",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
