@@ -10,6 +10,13 @@
             "heading_size": "large"
           }
         },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Encuentra lo último en Fundas, Accesorios y Más!",
+            "text_style": "body"
+          }
+        },
         "button": {
           "type": "buttons",
           "settings": {
@@ -20,23 +27,16 @@
             "button_link_2": "",
             "button_style_secondary_2": false
           }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Encuentra lo último en Fundas, Accesorios y Más!",
-            "text_style": "body"
-          }
         }
       },
       "block_order": [
         "heading",
-        "button",
-        "text"
+        "text",
+        "button"
       ],
       "settings": {
         "image": "shopify:\/\/shop_images\/fundas-ipad-collection.jpg",
-        "image_overlay_opacity": 40,
+        "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
