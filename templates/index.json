@@ -6,38 +6,38 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Image banner",
+            "heading": "Bienvenida",
             "heading_size": "large"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "Bienvenida",
-            "text_style": "body"
           }
         },
         "button": {
           "type": "buttons",
           "settings": {
-            "button_label_1": "Shop all",
+            "button_label_1": "Ir a la Tienda",
             "button_link_1": "shopify:\/\/collections\/all",
             "button_style_secondary_1": true,
             "button_label_2": "",
             "button_link_2": "",
             "button_style_secondary_2": false
           }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "Encuentra lo último en Fundas, Accesorios y Más!",
+            "text_style": "body"
+          }
         }
       },
       "block_order": [
         "heading",
-        "text",
-        "button"
+        "button",
+        "text"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/cover-page.jpg",
+        "image": "shopify:\/\/shop_images\/fundas-ipad-collection.jpg",
         "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
