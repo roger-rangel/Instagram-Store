@@ -99,20 +99,20 @@
         "collection-0": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "fundas-celular"
           }
         },
         "product": {
           "type": "product",
           "settings": {
-            "product": "",
+            "product": "iphone-case-demo-1",
             "second_image": false
           }
         },
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": ""
+            "collection": "accesorios"
           }
         }
       },
