@@ -1,6 +1,8 @@
 {
   "current": {
+    "colors_solid_button_labels": "#FFFFFF",
     "colors_accent_1": "#ffbcd1",
+    "gradient_accent_1": "linear-gradient(133deg, rgba(250, 220, 54, 1) 11%, rgba(254, 98, 146, 1) 49%, rgba(250, 220, 54, 1) 87%)",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
