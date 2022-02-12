@@ -165,11 +165,11 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cover-page.jpg",
+            "image": "shopify:\/\/shop_images\/cursos-collection-removebg-preview.png",
             "title": "Cursos",
             "text": "<p>Aprende con nosotras<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/cursos"
           }
         },
         "column1": {
