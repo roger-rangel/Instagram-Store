@@ -12,8 +12,8 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/ana-iphone-case-2.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "medium",
-        "adapt_height_first_image": true,
+        "image_height": "large",
+        "adapt_height_first_image": false,
         "desktop_content_position": "top-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
