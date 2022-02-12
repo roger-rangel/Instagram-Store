@@ -1,17 +1,53 @@
 {
   "sections": {
     "main": {
-      "type": "main-page"
+      "type": "main-page",
+      "settings": {
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     },
     "form": {
       "type": "contact-form",
       "settings": {
-        "heading": ""
+        "heading": "",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1644681534c2df6f34": {
+      "type": "rich-text",
+      "blocks": {
+        "16446815343bcdef5d-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Ó mándanos un correo a",
+            "heading_size": "h1"
+          }
+        },
+        "16446815343bcdef5d-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>guarapocolors19@gmail.com<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16446815343bcdef5d-0",
+        "16446815343bcdef5d-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
     "main",
-    "form"
+    "form",
+    "1644681534c2df6f34"
   ]
 }
