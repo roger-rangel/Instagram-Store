@@ -44,6 +44,49 @@
         "padding_bottom": 36
       }
     },
+    "16446833072cace810": {
+      "type": "image-with-text",
+      "blocks": {
+        "164468330706204cce-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Workshops",
+            "heading_size": "h1"
+          }
+        },
+        "164468330706204cce-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Visita todos nuestros workshops en vivo y en caso de no haber estado ahi, compra cualquiera de nuestros videos en linea con nuestros cupones de Instagram<\/p>",
+            "text_style": "body"
+          }
+        },
+        "164468330706204cce-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "164468330706204cce-0",
+        "164468330706204cce-1",
+        "164468330706204cce-2"
+      ],
+      "settings": {
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -193,6 +236,7 @@
   },
   "order": [
     "1644682820cf278ea4",
+    "16446833072cace810",
     "rich_text",
     "collage",
     "1644590376b2fc5795",
