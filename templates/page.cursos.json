@@ -31,6 +31,7 @@
         "1644682820a2addc4e-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/fundas_celular.png",
         "height": "adapt",
         "desktop_image_width": "medium",
         "layout": "image_first",
