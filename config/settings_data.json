@@ -62,7 +62,7 @@
             "type": "link_list",
             "settings": {
               "heading": "CATALOGO",
-              "menu": "footer"
+              "menu": "catalogo"
             }
           }
         },
