@@ -8,45 +8,6 @@
         "padding_bottom": 24
       }
     },
-    "16446546699b46c260": {
-      "type": "collage",
-      "blocks": {
-        "dae21c31-a717-49ab-864e-fd02c7234bcc": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ana-iphone-case-2.jpg",
-            "image_padding": false
-          }
-        },
-        "7c79b0ae-34ca-44a3-9510-930d6456e779": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/roman-kraft-TDmf_aiuta0-unsplash.jpg",
-            "image_padding": false
-          }
-        },
-        "8e61772b-bc42-4ada-b352-8615c29241f7": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/MicrosoftTeams-imageb646026168f4b05e3c6c6ab579f4d0df6bf44cd809ee1c67e67a25fde768343f-removebg-preview.png",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "dae21c31-a717-49ab-864e-fd02c7234bcc",
-        "7c79b0ae-34ca-44a3-9510-930d6456e779",
-        "8e61772b-bc42-4ada-b352-8615c29241f7"
-      ],
-      "settings": {
-        "heading": "",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "accent-2",
-        "padding_top": 44,
-        "padding_bottom": 44
-      }
-    },
     "16446550736345dcdc": {
       "type": "rich-text",
       "blocks": {
@@ -87,7 +48,6 @@
   },
   "order": [
     "main",
-    "16446546699b46c260",
     "16446550736345dcdc"
   ]
 }
