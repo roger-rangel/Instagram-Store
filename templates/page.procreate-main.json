@@ -54,20 +54,29 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Bienvenida a Guarapocolors!",
+            "heading": "Cursos para todos los niveles",
             "heading_size": "h1"
           }
         },
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Descubre nuevo contenido y exprésate al máximo con nuestras nuevas fundas este 2022<\/p>"
+            "text": "<p>Qué te gustaría aprender hoy?<\/p>"
+          }
+        },
+        "70fb67fe-50e6-4c88-9cb8-91ddab6eb1cf": {
+          "type": "button",
+          "settings": {
+            "button_label": "Ir a cursos",
+            "button_link": "shopify:\/\/pages\/cursos",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
         "heading",
-        "text"
+        "text",
+        "70fb67fe-50e6-4c88-9cb8-91ddab6eb1cf"
       ],
       "settings": {
         "color_scheme": "accent-2",
