@@ -85,76 +85,6 @@
         "padding_bottom": 48
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Favoritos",
-        "collection": "favorites-homepage",
-        "products_to_show": 8,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "fundas-celular"
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "accesorios"
-          }
-        },
-        "ce097d6b-c1e4-4944-9453-e1a4614a9c08": {
-          "type": "collection",
-          "settings": {
-            "collection": "fundas-laptop"
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "collection-1",
-        "ce097d6b-c1e4-4944-9453-e1a4614a9c08"
-      ],
-      "settings": {
-        "heading": "",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1644590376b2fc5795": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Fundas Celular",
-        "collection": "fundas-celular",
-        "products_to_show": 8,
-        "color_scheme": "background-1",
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "video": {
       "type": "video",
       "disabled": true,
@@ -168,54 +98,17 @@
         "padding_bottom": 36
       }
     },
-    "multicolumn": {
-      "type": "multicolumn",
-      "blocks": {
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Cursos",
-            "text": "<p>Aprende con nosotras<\/p>",
-            "link_label": "Ir",
-            "link": "shopify:\/\/collections\/cursos"
-          }
-        },
-        "column1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/funda_laptop.png",
-            "title": "Fundas Laptop",
-            "text": "<p>Explora todas nuestras fundas<\/p>",
-            "link_label": "Ir",
-            "link": "shopify:\/\/collections\/fundas-laptop"
-          }
-        },
-        "column3": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/procreate-2-removebg-preview.png",
-            "title": "Procreate",
-            "text": "<p>Nuevas decoraciones 2022<\/p>",
-            "link_label": "Ir",
-            "link": "shopify:\/\/blogs\/procreate"
-          }
-        }
-      },
-      "block_order": [
-        "column2",
-        "column1",
-        "column3"
-      ],
+    "16446843622975e7be": {
+      "type": "featured-blog",
       "settings": {
-        "title": "",
-        "image_width": "third",
-        "image_ratio": "adapt",
-        "column_alignment": "center",
-        "background_style": "none",
-        "button_label": "",
-        "button_link": "",
-        "swipe_on_mobile": false,
+        "heading": "Blog posts",
+        "blog": "procreate",
+        "post_limit": 3,
         "color_scheme": "background-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -224,10 +117,7 @@
   "order": [
     "image_banner",
     "rich_text",
-    "featured_collection",
-    "collage",
-    "1644590376b2fc5795",
     "video",
-    "multicolumn"
+    "16446843622975e7be"
   ]
 }
