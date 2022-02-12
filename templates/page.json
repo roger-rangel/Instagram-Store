@@ -46,10 +46,48 @@
         "padding_top": 44,
         "padding_bottom": 44
       }
+    },
+    "16446550736345dcdc": {
+      "type": "rich-text",
+      "blocks": {
+        "1644655073c8b2681c-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Escoge tu funda favorita en nuestro catálogo",
+            "heading_size": "h1"
+          }
+        },
+        "1644655073c8b2681c-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>SI haz visto algo que te gusta en nuestras redes sociales, búscalo en el menu de arriba por su nombre ❤️<\/p>"
+          }
+        },
+        "1644655073c8b2681c-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Explorar",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "1644655073c8b2681c-0",
+        "1644655073c8b2681c-1",
+        "1644655073c8b2681c-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "16446546699b46c260"
+    "16446546699b46c260",
+    "16446550736345dcdc"
   ]
 }
