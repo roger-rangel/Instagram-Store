@@ -185,11 +185,11 @@
         "column3": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/debby-hudson-MzSqFPLo8CE-unsplash.jpg",
-            "title": "Cuadros",
+            "image": "shopify:\/\/shop_images\/procreate-2-removebg-preview.png",
+            "title": "Procreate",
             "text": "<p>Nuevas decoraciones 2022<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/blogs\/procreate"
           }
         }
       },
