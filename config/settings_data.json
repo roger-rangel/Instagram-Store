@@ -51,17 +51,17 @@
               "menu": "footer"
             }
           },
-          "footer-1": {
-            "type": "text",
+          "1f705403-459e-4c2f-b1f8-926047c48ef8": {
+            "type": "link_list",
             "settings": {
-              "heading": "Heading",
-              "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+              "heading": "NOSOTRAS",
+              "menu": "footer"
             }
           }
         },
         "block_order": [
           "footer-0",
-          "footer-1"
+          "1f705403-459e-4c2f-b1f8-926047c48ef8"
         ],
         "settings": {
           "color_scheme": "background-1",
