@@ -6,7 +6,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Elige tu propio estilo",
+            "heading": "Tu primera vez usando Procreate?",
             "heading_size": "large"
           }
         },
@@ -35,7 +35,7 @@
         "button"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/fundas-ipad-collection-4.jpg",
+        "image": "shopify:\/\/shop_images\/procreate-cursos-mejores.jpg",
         "image_overlay_opacity": 10,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -165,7 +165,6 @@
         "column2": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/cursos-collection-removebg-preview.png",
             "title": "Cursos",
             "text": "<p>Aprende con nosotras<\/p>",
             "link_label": "Ir",
