@@ -10,10 +10,10 @@
     "1644652934d8cea4ec": {
       "type": "image-banner",
       "settings": {
-        "image": "shopify:\/\/shop_images\/ana-iphone-case_7e2375ba-00c4-4b12-8324-642c72cf4490.jpg",
+        "image": "shopify:\/\/shop_images\/ana-iphone-case-2.jpg",
         "image_overlay_opacity": 0,
         "image_height": "medium",
-        "adapt_height_first_image": false,
+        "adapt_height_first_image": true,
         "desktop_content_position": "top-center",
         "show_text_box": true,
         "desktop_content_alignment": "center",
