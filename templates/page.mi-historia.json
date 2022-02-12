@@ -2,58 +2,14 @@
   "sections": {
     "main": {
       "type": "main-page",
+      "disabled": true,
       "settings": {
         "padding_top": 24,
         "padding_bottom": 24
       }
-    },
-    "1644656696034758f0": {
-      "type": "image-with-text",
-      "blocks": {
-        "164465669609504b89-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ana Q",
-            "heading_size": "h1"
-          }
-        },
-        "164465669609504b89-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Empeze mi camino como Instagrammer...<\/p>",
-            "text_style": "body"
-          }
-        },
-        "164465669609504b89-2": {
-          "type": "button",
-          "settings": {
-            "button_label": "Mi historia",
-            "button_link": "shopify:\/\/pages\/mi-historia"
-          }
-        }
-      },
-      "block_order": [
-        "164465669609504b89-0",
-        "164465669609504b89-1",
-        "164465669609504b89-2"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/fundas-guarapocolors-ana.jpg",
-        "height": "adapt",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "main",
-    "1644656696034758f0"
+    "main"
   ]
 }
