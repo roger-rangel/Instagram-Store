@@ -6,41 +6,9 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
-    },
-    "1644654070d9dbce80": {
-      "type": "collage",
-      "blocks": {
-        "dbce2501-7dfa-4f9a-8abe-03513103b0e2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ana-iphone-case-2.jpg",
-            "image_padding": false
-          }
-        },
-        "cc4a649a-370e-474c-a44c-4b510588eee2": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/roman-kraft-TDmf_aiuta0-unsplash.jpg",
-            "image_padding": false
-          }
-        }
-      },
-      "block_order": [
-        "dbce2501-7dfa-4f9a-8abe-03513103b0e2",
-        "cc4a649a-370e-474c-a44c-4b510588eee2"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
-    "main",
-    "1644654070d9dbce80"
+    "main"
   ]
 }
