@@ -55,13 +55,21 @@
             "type": "link_list",
             "settings": {
               "heading": "NOSOTRAS",
+              "menu": "nosotras"
+            }
+          },
+          "452e79d1-6566-43f6-ba0a-9daea47cbc50": {
+            "type": "link_list",
+            "settings": {
+              "heading": "Catálogo",
               "menu": "footer"
             }
           }
         },
         "block_order": [
           "footer-0",
-          "1f705403-459e-4c2f-b1f8-926047c48ef8"
+          "1f705403-459e-4c2f-b1f8-926047c48ef8",
+          "452e79d1-6566-43f6-ba0a-9daea47cbc50"
         ],
         "settings": {
           "color_scheme": "background-1",
