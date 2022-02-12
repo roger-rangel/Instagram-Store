@@ -102,24 +102,23 @@
             "collection": "fundas-celular"
           }
         },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "iphone-case-demo-1",
-            "second_image": false
-          }
-        },
         "collection-1": {
           "type": "collection",
           "settings": {
             "collection": "accesorios"
           }
+        },
+        "ce097d6b-c1e4-4944-9453-e1a4614a9c08": {
+          "type": "collection",
+          "settings": {
+            "collection": "fundas-laptop"
+          }
         }
       },
       "block_order": [
         "collection-0",
-        "product",
-        "collection-1"
+        "collection-1",
+        "ce097d6b-c1e4-4944-9453-e1a4614a9c08"
       ],
       "settings": {
         "heading": "",
