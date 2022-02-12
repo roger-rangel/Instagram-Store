@@ -14,12 +14,14 @@
         "4079447e-3231-43cd-8e4d-385c6a04106c": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/instagrammer_fundas.jpg",
             "image_padding": false
           }
         },
         "bccfc190-d389-443c-942b-db00fbe8d109": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/como_empezar_instagram.jpg",
             "image_padding": false
           }
         }
