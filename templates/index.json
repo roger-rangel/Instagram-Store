@@ -81,7 +81,7 @@
       "settings": {
         "title": "",
         "collection": "favorites-homepage",
-        "products_to_show": 8,
+        "products_to_show": 6,
         "color_scheme": "background-1",
         "show_view_all": false,
         "swipe_on_mobile": false,
