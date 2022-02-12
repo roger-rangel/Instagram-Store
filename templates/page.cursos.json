@@ -1,0 +1,226 @@
+{
+    "sections": {
+      "image_banner": {
+        "type": "image-banner",
+        "blocks": {
+          "heading": {
+            "type": "heading",
+            "settings": {
+              "heading": "Elige tu propio estilo",
+              "heading_size": "large"
+            }
+          },
+          "text": {
+            "type": "text",
+            "settings": {
+              "text": "Encuentra lo último en Fundas, Accesorios y Más!",
+              "text_style": "body"
+            }
+          },
+          "button": {
+            "type": "buttons",
+            "settings": {
+              "button_label_1": "Ir a la Tienda",
+              "button_link_1": "shopify:\/\/collections\/all",
+              "button_style_secondary_1": true,
+              "button_label_2": "",
+              "button_link_2": "",
+              "button_style_secondary_2": false
+            }
+          }
+        },
+        "block_order": [
+          "heading",
+          "text",
+          "button"
+        ],
+        "settings": {
+          "image": "shopify:\/\/shop_images\/fundas-ipad-collection-4.jpg",
+          "image_overlay_opacity": 10,
+          "image_height": "medium",
+          "adapt_height_first_image": false,
+          "desktop_content_position": "bottom-center",
+          "show_text_box": false,
+          "desktop_content_alignment": "center",
+          "color_scheme": "background-1",
+          "mobile_content_alignment": "center",
+          "stack_images_on_mobile": false,
+          "show_text_below": false
+        }
+      },
+      "rich_text": {
+        "type": "rich-text",
+        "blocks": {
+          "heading": {
+            "type": "heading",
+            "settings": {
+              "heading": "Bienvenida a Guarapocolors!",
+              "heading_size": "h1"
+            }
+          },
+          "text": {
+            "type": "text",
+            "settings": {
+              "text": "<p>Descubre nuevo contenido y exprésate al máximo con nuestras nuevas fundas este 2022<\/p>"
+            }
+          }
+        },
+        "block_order": [
+          "heading",
+          "text"
+        ],
+        "settings": {
+          "color_scheme": "accent-2",
+          "full_width": true,
+          "padding_top": 48,
+          "padding_bottom": 48
+        }
+      },
+      "featured_collection": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Favoritos",
+          "collection": "favorites-homepage",
+          "products_to_show": 8,
+          "color_scheme": "background-1",
+          "show_view_all": false,
+          "swipe_on_mobile": false,
+          "image_ratio": "adapt",
+          "show_secondary_image": true,
+          "show_vendor": false,
+          "show_rating": false,
+          "padding_top": 28,
+          "padding_bottom": 36
+        }
+      },
+      "collage": {
+        "type": "collage",
+        "blocks": {
+          "collection-0": {
+            "type": "collection",
+            "settings": {
+              "collection": "fundas-celular"
+            }
+          },
+          "collection-1": {
+            "type": "collection",
+            "settings": {
+              "collection": "accesorios"
+            }
+          },
+          "ce097d6b-c1e4-4944-9453-e1a4614a9c08": {
+            "type": "collection",
+            "settings": {
+              "collection": "fundas-laptop"
+            }
+          }
+        },
+        "block_order": [
+          "collection-0",
+          "collection-1",
+          "ce097d6b-c1e4-4944-9453-e1a4614a9c08"
+        ],
+        "settings": {
+          "heading": "",
+          "desktop_layout": "left",
+          "mobile_layout": "collage",
+          "color_scheme": "background-1",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "1644590376b2fc5795": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Fundas Celular",
+          "collection": "fundas-celular",
+          "products_to_show": 8,
+          "color_scheme": "background-1",
+          "show_view_all": true,
+          "swipe_on_mobile": false,
+          "image_ratio": "adapt",
+          "show_secondary_image": false,
+          "show_vendor": false,
+          "show_rating": false,
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "video": {
+        "type": "video",
+        "disabled": true,
+        "settings": {
+          "heading": "",
+          "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+          "description": "",
+          "full_width": false,
+          "color_scheme": "background-1",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      },
+      "multicolumn": {
+        "type": "multicolumn",
+        "blocks": {
+          "column2": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/cursos-collection-removebg-preview.png",
+              "title": "Cursos",
+              "text": "<p>Aprende con nosotras<\/p>",
+              "link_label": "Ir",
+              "link": "shopify:\/\/collections\/cursos"
+            }
+          },
+          "column1": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/funda_laptop.png",
+              "title": "Fundas Laptop",
+              "text": "<p>Explora todas nuestras fundas<\/p>",
+              "link_label": "Ir",
+              "link": "shopify:\/\/collections\/fundas-laptop"
+            }
+          },
+          "column3": {
+            "type": "column",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/procreate-2-removebg-preview.png",
+              "title": "Procreate",
+              "text": "<p>Nuevas decoraciones 2022<\/p>",
+              "link_label": "Ir",
+              "link": "shopify:\/\/blogs\/procreate"
+            }
+          }
+        },
+        "block_order": [
+          "column2",
+          "column1",
+          "column3"
+        ],
+        "settings": {
+          "title": "",
+          "image_width": "third",
+          "image_ratio": "adapt",
+          "column_alignment": "center",
+          "background_style": "none",
+          "button_label": "",
+          "button_link": "",
+          "swipe_on_mobile": false,
+          "color_scheme": "background-1",
+          "padding_top": 36,
+          "padding_bottom": 36
+        }
+      }
+    },
+    "order": [
+      "image_banner",
+      "rich_text",
+      "featured_collection",
+      "collage",
+      "1644590376b2fc5795",
+      "video",
+      "multicolumn"
+    ]
+  }
+  
