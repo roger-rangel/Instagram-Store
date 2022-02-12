@@ -12,7 +12,7 @@
       "settings": {
         "image": "shopify:\/\/shop_images\/ana-iphone-case_7e2375ba-00c4-4b12-8324-642c72cf4490.jpg",
         "image_overlay_opacity": 0,
-        "image_height": "large",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "top-center",
         "show_text_box": true,
