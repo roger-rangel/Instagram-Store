@@ -9,7 +9,7 @@
     "colors_background_2": "#ffbcd1",
     "gradient_background_2": "linear-gradient(95deg, rgba(255, 211, 226, 1), rgba(168, 255, 251, 1) 100%)",
     "type_header_font": "mono",
-    "heading_scale": 110,
+    "heading_scale": 105,
     "type_body_font": "mono",
     "body_scale": 120,
     "social_facebook_link": "",
