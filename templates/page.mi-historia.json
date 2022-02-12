@@ -38,10 +38,39 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1644657790d768a915": {
+      "type": "rich-text",
+      "blocks": {
+        "16446577900ec09210-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Los primeros pasos",
+            "heading_size": "h1"
+          }
+        },
+        "16446577900ec09210-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>[Contenido]<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "16446577900ec09210-0",
+        "16446577900ec09210-1"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
     "main",
-    "164465732448ff0c7b"
+    "164465732448ff0c7b",
+    "1644657790d768a915"
   ]
 }
