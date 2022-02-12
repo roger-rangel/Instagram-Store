@@ -7,6 +7,7 @@
     "gradient_accent_2": "linear-gradient(180deg, rgba(196, 102, 238, 1), rgba(82, 218, 236, 1) 100%)",
     "colors_background_1": "#F3F3F3",
     "colors_background_2": "#ffbcd1",
+    "gradient_background_2": "linear-gradient(180deg, rgba(255, 211, 226, 1), rgba(168, 255, 251, 1) 100%)",
     "type_header_font": "monotype_baskerville_n4",
     "social_facebook_link": "",
     "social_instagram_link": "",
