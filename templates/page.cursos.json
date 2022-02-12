@@ -75,8 +75,9 @@
         "164468330706204cce-2"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/workshop-procreate.png",
         "height": "adapt",
-        "desktop_image_width": "medium",
+        "desktop_image_width": "small",
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
