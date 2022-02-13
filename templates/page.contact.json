@@ -19,13 +19,6 @@
     "1644681534c2df6f34": {
       "type": "rich-text",
       "blocks": {
-        "16446815343bcdef5d-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Ó mándanos un correo a",
-            "heading_size": "h1"
-          }
-        },
         "16446815343bcdef5d-1": {
           "type": "text",
           "settings": {
@@ -34,7 +27,6 @@
         }
       },
       "block_order": [
-        "16446815343bcdef5d-0",
         "16446815343bcdef5d-1"
       ],
       "settings": {
