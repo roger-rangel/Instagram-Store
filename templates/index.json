@@ -177,7 +177,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DEMO-tablet.png",
             "title": "Fundas Tableta",
-            "text": "<p>Ipad y más<\/p>",
+            "text": "<p>iPad y más<\/p>",
             "link_label": "Ir",
             "link": "shopify:\/\/collections\/fundas-laptop"
           }
