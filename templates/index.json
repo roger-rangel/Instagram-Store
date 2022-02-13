@@ -175,9 +175,9 @@
         "column1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/funda_laptop.png",
-            "title": "Fundas Laptop",
-            "text": "<p>Explora todas nuestras fundas<\/p>",
+            "image": "shopify:\/\/shop_images\/DEMO-tablet.png",
+            "title": "Fundas Tableta",
+            "text": "<p>Ipad y más<\/p>",
             "link_label": "Ir",
             "link": "shopify:\/\/collections\/fundas-laptop"
           }
