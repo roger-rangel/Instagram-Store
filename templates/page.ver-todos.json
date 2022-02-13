@@ -28,101 +28,9 @@
         "padding_bottom": 48
       }
     },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Favoritos",
-        "collection": "favorites-homepage",
-        "products_to_show": 8,
-        "color_scheme": "background-1",
-        "show_view_all": false,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": "fundas-celular"
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": "accesorios"
-          }
-        },
-        "ce097d6b-c1e4-4944-9453-e1a4614a9c08": {
-          "type": "collection",
-          "settings": {
-            "collection": "fundas-laptop"
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "collection-1",
-        "ce097d6b-c1e4-4944-9453-e1a4614a9c08"
-      ],
-      "settings": {
-        "heading": "",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "1644590376b2fc5795": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Fundas Celular",
-        "collection": "fundas-celular",
-        "products_to_show": 8,
-        "color_scheme": "background-1",
-        "show_view_all": true,
-        "swipe_on_mobile": false,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "disabled": true,
-      "settings": {
-        "heading": "",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "multicolumn": {
       "type": "multicolumn",
       "blocks": {
-        "column2": {
-          "type": "column",
-          "settings": {
-            "title": "Cursos",
-            "text": "<p>Aprende con nosotras<\/p>",
-            "link_label": "Ir",
-            "link": "shopify:\/\/collections\/cursos"
-          }
-        },
         "column1": {
           "type": "column",
           "settings": {
@@ -133,21 +41,20 @@
             "link": "shopify:\/\/collections\/fundas-laptop"
           }
         },
-        "column3": {
+        "05ad1851-eb5c-4f73-a083-2e5f8519cf4c": {
           "type": "column",
           "settings": {
             "image": "shopify:\/\/shop_images\/procreate-2-removebg-preview.png",
-            "title": "Procreate",
-            "text": "<p>Nuevas decoraciones 2022<\/p>",
+            "title": "Fundas Tabletas",
+            "text": "",
             "link_label": "Ir",
-            "link": "shopify:\/\/blogs\/procreate"
+            "link": "shopify:\/\/collections\/fundas-ipad"
           }
         }
       },
       "block_order": [
-        "column2",
         "column1",
-        "column3"
+        "05ad1851-eb5c-4f73-a083-2e5f8519cf4c"
       ],
       "settings": {
         "title": "",
@@ -162,14 +69,28 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "1644590376b2fc5795": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "Fundas Celular",
+        "collection": "fundas-celular",
+        "products_to_show": 4,
+        "color_scheme": "background-1",
+        "show_view_all": true,
+        "swipe_on_mobile": false,
+        "image_ratio": "adapt",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "rich_text",
-    "featured_collection",
-    "collage",
-    "1644590376b2fc5795",
-    "video",
-    "multicolumn"
+    "multicolumn",
+    "1644590376b2fc5795"
   ]
 }
