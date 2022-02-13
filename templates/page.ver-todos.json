@@ -50,11 +50,21 @@
             "link_label": "Ir",
             "link": "shopify:\/\/collections\/fundas-ipad"
           }
+        },
+        "552503a3-2b39-4b4c-bbb9-ca03475bd976": {
+          "type": "column",
+          "settings": {
+            "title": "Fundas Celular",
+            "text": "",
+            "link_label": "Ir",
+            "link": "shopify:\/\/collections\/fundas-celular"
+          }
         }
       },
       "block_order": [
         "column1",
-        "05ad1851-eb5c-4f73-a083-2e5f8519cf4c"
+        "05ad1851-eb5c-4f73-a083-2e5f8519cf4c",
+        "552503a3-2b39-4b4c-bbb9-ca03475bd976"
       ],
       "settings": {
         "title": "",
