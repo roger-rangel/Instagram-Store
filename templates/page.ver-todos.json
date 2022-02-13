@@ -36,7 +36,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/cursos-procreate-aprende.png",
             "title": "Fundas Laptop",
-            "text": "<p>Explora todas nuestras fundas<\/p>",
+            "text": "",
             "link_label": "Ir",
             "link": "shopify:\/\/collections\/fundas-laptop"
           }
@@ -54,6 +54,7 @@
         "552503a3-2b39-4b4c-bbb9-ca03475bd976": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/celular_case_bonito.png",
             "title": "Fundas Celular",
             "text": "",
             "link_label": "Ir",
